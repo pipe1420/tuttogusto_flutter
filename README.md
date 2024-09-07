@@ -47,7 +47,6 @@ https://github.com/pipe1420/tuttogusto_flutter/tree/main/installer/TuttoGusto-re
 ```
 
 
-
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
 
