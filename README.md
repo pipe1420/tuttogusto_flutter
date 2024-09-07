@@ -29,13 +29,12 @@ https://www.figma.com/design/iu5bHC0wMiIeq3xRAJxDPv/App-FoodService-Pizza?node-i
 - **Gestión de Pedidos:** Revisa el historial de pedidos anteriores con detalles y opciones para ver el recibo.
 - **Perfil y Configuraciones:** Administra la cuenta, direcciones de envío y métodos de pago desde la sección de perfil.
 
-## Tecnologías Esperadas para uso
+## Tecnologías de uso
 
 - **Frontend:** Desarrollo utilizando framework de desarrollo móvil (Flutter).
 - **Backend:** Implementación de servicios backend con Node.js.
-- **Base de Datos:** Almacenamiento de datos utilizando una base de datos MongoDB.
-- **Autenticación:** Implementación de autenticación de usuario con tecnología de autenticación OAuth.
-- **Pasarela de Pago:** Integración con WebPay Transbank para pagos.
+- **Base de Datos:** Almacenamiento de datos utilizando una base de datos Supabase.
+- **Autenticación:** Implementación de autenticación de usuario con tecnología de autenticación Auth.
 
 ## Requisitos Previos
 
