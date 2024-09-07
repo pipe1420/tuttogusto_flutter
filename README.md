@@ -15,6 +15,9 @@ https://www.figma.com/design/iu5bHC0wMiIeq3xRAJxDPv/App-FoodService-Pizza?node-i
 
 ![Vista 3](https://raw.githubusercontent.com/pipe1420/tuttogusto_flutter/main/assets/images/PreviewApp/Preview3.png)
 
+**Video preview**
+![Video PreviewShort](https://github.com/user-attachments/assets/3959f3a0-c2a2-4306-8fe2-7b42dfb98d77)
+
 
 **TuttoGusto** es una aplicación móvil desarrollada para una pizzería, diseñada para ofrecer a los usuarios una experiencia de pedido de pizzas y otros productos de manera rápida y sencilla. La aplicación permite a los usuarios explorar el menú, agregar productos al carrito de compras, realizar pedidos y gestionar su perfil, direcciones y métodos de pago.
 
