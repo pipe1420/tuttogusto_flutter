@@ -41,10 +41,12 @@ https://www.figma.com/design/iu5bHC0wMiIeq3xRAJxDPv/App-FoodService-Pizza?node-i
 
 ## Instalador
 
-El instalador APK esta disponible en la ruta:
+El instalador APK esta disponible en la ruta o **[Descarga aquí](https://raw.githubusercontent.com/pipe1420/tuttogusto_flutter/main/installer/TuttoGusto-release.apk)**:
 ```sh
 https://github.com/pipe1420/tuttogusto_flutter/tree/main/installer/TuttoGusto-release.apk
 ```
+
+
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
